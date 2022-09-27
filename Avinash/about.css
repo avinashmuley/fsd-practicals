@@ -1,0 +1,9 @@
+.about{
+    text-align: center;
+}
+#p-tag{
+    margin: 3rem 24rem; 
+       border: 2px solid whitesmoke;
+    padding: 8px;
+    border-radius: 2px;
+}
